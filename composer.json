@@ -1,0 +1,11 @@
+{
+    "name": "nguyenbaky/base-mvc-oop",
+    "autoload": {
+        "psr-4": {
+            "Nguyenbaky\\BaseMvcOop\\": "src/"
+        }
+    },
+    "require": {
+        
+    }
+}
